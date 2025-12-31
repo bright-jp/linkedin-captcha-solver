@@ -1,6 +1,6 @@
 # LinkedIn CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/linkedin)
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/linkedin)
 
 Bright Dataの高度なCAPTCHA解決テクノロジーにより、LinkedInのCAPTCHAを手間なく回避できます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、および堅牢なプロキシインフラストラクチャを活用して、ターゲットサイトへのシームレスで安定したアクセスを実現します。  
 
@@ -129,7 +129,7 @@ Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプをサ
 
 ## Advanced Customization  
 
-[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
+[Bright DataのCAPTCHA Solver](https://github.com/bright-jp/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
 
 ## **イベント監視**  
 高度なユースケースに対応するため、CAPTCHA解決イベントを追跡します。  
